@@ -1,0 +1,14 @@
+afl-analyze
+afl-as
+afl-cmin
+afl-fuzz
+afl-g++
+afl-gcc
+afl-gotcpu
+afl-plot
+afl-showmap
+afl-tmin
+afl-whatsup
+as
+afl-clang
+afl-clang++
