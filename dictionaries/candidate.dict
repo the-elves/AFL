@@ -1,0 +1,8 @@
+module_key="modules"
+module_module_name_key="module-name"
+module_module_rek_profile_key="module-rekall-profile"
+module_functions="functions"
+module_functions_fn="function-name"
+module_functions_args="arguments"
+module_functions_args_type="type"
+module_functions_args_value="value"
